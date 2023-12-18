@@ -1,4 +1,4 @@
-from tkinter import image_types
+
 from PIL import Image
 
 import io
